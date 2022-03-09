@@ -1,0 +1,207 @@
+2022-03-08:22:50:58 INFO   [omdb_importer.py:65] retrieving data for all series being tracked
+2022-03-08:22:50:58 INFO   [omdb_importer.py:75] retrieved series data for 'Game of Thrones'
+2022-03-08:22:50:58 INFO   [omdb_importer.py:76] retrieved data for 1 series
+2022-03-08:22:50:58 INFO   [omdb_importer.py:80] backfilled imdbid tt0944947 for series 'Game of Thrones' into tracked_series.json
+2022-03-08:22:50:58 INFO   [omdb_importer.py:75] retrieved series data for 'Stranger Things'
+2022-03-08:22:50:58 INFO   [omdb_importer.py:76] retrieved data for 2 series
+2022-03-08:22:50:58 INFO   [omdb_importer.py:80] backfilled imdbid tt4574334 for series 'Stranger Things' into tracked_series.json
+2022-03-08:22:50:58 INFO   [omdb_importer.py:75] retrieved series data for 'Chernobyl'
+2022-03-08:22:50:58 INFO   [omdb_importer.py:76] retrieved data for 3 series
+2022-03-08:22:50:58 INFO   [omdb_importer.py:80] backfilled imdbid tt7366338 for series 'Chernobyl' into tracked_series.json
+2022-03-08:22:50:58 INFO   [omdb_importer.py:75] retrieved series data for 'The Mandalorian'
+2022-03-08:22:50:58 INFO   [omdb_importer.py:76] retrieved data for 4 series
+2022-03-08:22:50:58 INFO   [omdb_importer.py:80] backfilled imdbid tt8111088 for series 'The Mandalorian' into tracked_series.json
+2022-03-08:22:50:59 INFO   [omdb_importer.py:75] retrieved series data for 'Mr. Robot'
+2022-03-08:22:50:59 INFO   [omdb_importer.py:76] retrieved data for 5 series
+2022-03-08:22:50:59 INFO   [omdb_importer.py:80] backfilled imdbid tt4158110 for series 'Mr. Robot' into tracked_series.json
+2022-03-08:22:50:59 INFO   [omdb_importer.py:93] retrieving all episode data for 'Game of Thrones', 8 season(s)
+2022-03-08:22:50:59 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 1
+2022-03-08:22:50:59 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 2
+2022-03-08:22:50:59 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 3
+2022-03-08:22:50:59 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 4
+2022-03-08:22:50:59 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 5
+2022-03-08:22:51:00 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 6
+2022-03-08:22:51:00 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 7
+2022-03-08:22:51:00 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 8
+2022-03-08:22:51:00 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 9
+2022-03-08:22:51:00 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 10
+2022-03-08:22:51:00 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 1
+2022-03-08:22:51:00 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 2
+2022-03-08:22:51:01 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 3
+2022-03-08:22:51:01 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 4
+2022-03-08:22:51:01 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 5
+2022-03-08:22:51:01 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 6
+2022-03-08:22:51:01 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 7
+2022-03-08:22:51:01 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 8
+2022-03-08:22:51:01 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 9
+2022-03-08:22:51:01 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 10
+2022-03-08:22:51:02 INFO   [omdb_importer.py:101] retrieved episode data for season 3 episode 1
+2022-03-08:22:51:02 INFO   [omdb_importer.py:101] retrieved episode data for season 3 episode 2
+2022-03-08:22:51:02 INFO   [omdb_importer.py:101] retrieved episode data for season 3 episode 3
+2022-03-08:22:51:02 INFO   [omdb_importer.py:101] retrieved episode data for season 3 episode 4
+2022-03-08:22:51:02 INFO   [omdb_importer.py:101] retrieved episode data for season 3 episode 5
+2022-03-08:22:51:02 INFO   [omdb_importer.py:101] retrieved episode data for season 3 episode 6
+2022-03-08:22:51:03 INFO   [omdb_importer.py:101] retrieved episode data for season 3 episode 7
+2022-03-08:22:51:03 INFO   [omdb_importer.py:101] retrieved episode data for season 3 episode 8
+2022-03-08:22:51:03 INFO   [omdb_importer.py:101] retrieved episode data for season 3 episode 9
+2022-03-08:22:51:03 INFO   [omdb_importer.py:101] retrieved episode data for season 3 episode 10
+2022-03-08:22:51:03 INFO   [omdb_importer.py:101] retrieved episode data for season 4 episode 1
+2022-03-08:22:51:03 INFO   [omdb_importer.py:101] retrieved episode data for season 4 episode 2
+2022-03-08:22:51:03 INFO   [omdb_importer.py:101] retrieved episode data for season 4 episode 3
+2022-03-08:22:51:04 INFO   [omdb_importer.py:101] retrieved episode data for season 4 episode 4
+2022-03-08:22:51:04 INFO   [omdb_importer.py:101] retrieved episode data for season 4 episode 5
+2022-03-08:22:51:04 INFO   [omdb_importer.py:101] retrieved episode data for season 4 episode 6
+2022-03-08:22:51:04 INFO   [omdb_importer.py:101] retrieved episode data for season 4 episode 7
+2022-03-08:22:51:04 INFO   [omdb_importer.py:101] retrieved episode data for season 4 episode 8
+2022-03-08:22:51:04 INFO   [omdb_importer.py:101] retrieved episode data for season 4 episode 9
+2022-03-08:22:51:04 INFO   [omdb_importer.py:101] retrieved episode data for season 4 episode 10
+2022-03-08:22:51:04 INFO   [omdb_importer.py:101] retrieved episode data for season 5 episode 1
+2022-03-08:22:51:05 INFO   [omdb_importer.py:101] retrieved episode data for season 5 episode 2
+2022-03-08:22:51:05 INFO   [omdb_importer.py:101] retrieved episode data for season 5 episode 3
+2022-03-08:22:51:05 INFO   [omdb_importer.py:101] retrieved episode data for season 5 episode 4
+2022-03-08:22:51:05 INFO   [omdb_importer.py:101] retrieved episode data for season 5 episode 5
+2022-03-08:22:51:05 INFO   [omdb_importer.py:101] retrieved episode data for season 5 episode 6
+2022-03-08:22:51:05 INFO   [omdb_importer.py:101] retrieved episode data for season 5 episode 7
+2022-03-08:22:51:05 INFO   [omdb_importer.py:101] retrieved episode data for season 5 episode 8
+2022-03-08:22:51:05 INFO   [omdb_importer.py:101] retrieved episode data for season 5 episode 9
+2022-03-08:22:51:06 INFO   [omdb_importer.py:101] retrieved episode data for season 5 episode 10
+2022-03-08:22:51:06 INFO   [omdb_importer.py:101] retrieved episode data for season 6 episode 1
+2022-03-08:22:51:06 INFO   [omdb_importer.py:101] retrieved episode data for season 6 episode 2
+2022-03-08:22:51:06 INFO   [omdb_importer.py:101] retrieved episode data for season 6 episode 3
+2022-03-08:22:51:06 INFO   [omdb_importer.py:101] retrieved episode data for season 6 episode 4
+2022-03-08:22:51:06 INFO   [omdb_importer.py:101] retrieved episode data for season 6 episode 5
+2022-03-08:22:51:06 INFO   [omdb_importer.py:101] retrieved episode data for season 6 episode 6
+2022-03-08:22:51:06 INFO   [omdb_importer.py:101] retrieved episode data for season 6 episode 7
+2022-03-08:22:51:07 INFO   [omdb_importer.py:101] retrieved episode data for season 6 episode 8
+2022-03-08:22:51:07 INFO   [omdb_importer.py:101] retrieved episode data for season 6 episode 9
+2022-03-08:22:51:07 INFO   [omdb_importer.py:101] retrieved episode data for season 6 episode 10
+2022-03-08:22:51:07 INFO   [omdb_importer.py:101] retrieved episode data for season 7 episode 1
+2022-03-08:22:51:07 INFO   [omdb_importer.py:101] retrieved episode data for season 7 episode 2
+2022-03-08:22:51:07 INFO   [omdb_importer.py:101] retrieved episode data for season 7 episode 3
+2022-03-08:22:51:07 INFO   [omdb_importer.py:101] retrieved episode data for season 7 episode 4
+2022-03-08:22:51:07 INFO   [omdb_importer.py:101] retrieved episode data for season 7 episode 5
+2022-03-08:22:51:08 INFO   [omdb_importer.py:101] retrieved episode data for season 7 episode 6
+2022-03-08:22:51:08 INFO   [omdb_importer.py:101] retrieved episode data for season 7 episode 7
+2022-03-08:22:51:08 INFO   [omdb_importer.py:101] retrieved episode data for season 8 episode 1
+2022-03-08:22:51:08 INFO   [omdb_importer.py:101] retrieved episode data for season 8 episode 2
+2022-03-08:22:51:08 INFO   [omdb_importer.py:101] retrieved episode data for season 8 episode 3
+2022-03-08:22:51:08 INFO   [omdb_importer.py:101] retrieved episode data for season 8 episode 4
+2022-03-08:22:51:08 INFO   [omdb_importer.py:101] retrieved episode data for season 8 episode 5
+2022-03-08:22:51:09 INFO   [omdb_importer.py:101] retrieved episode data for season 8 episode 6
+2022-03-08:22:51:09 INFO   [main.py:26] all episodes data for series 'Game of Thrones':
+2022-03-08:22:51:09 INFO   [omdb_importer.py:93] retrieving all episode data for 'Stranger Things', 4 season(s)
+2022-03-08:22:51:09 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 1
+2022-03-08:22:51:09 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 2
+2022-03-08:22:51:09 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 3
+2022-03-08:22:51:09 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 4
+2022-03-08:22:51:09 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 5
+2022-03-08:22:51:10 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 6
+2022-03-08:22:51:10 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 7
+2022-03-08:22:51:10 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 8
+2022-03-08:22:51:10 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 1
+2022-03-08:22:51:10 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 2
+2022-03-08:22:51:10 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 3
+2022-03-08:22:51:10 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 4
+2022-03-08:22:51:10 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 5
+2022-03-08:22:51:10 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 6
+2022-03-08:22:51:11 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 7
+2022-03-08:22:51:11 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 8
+2022-03-08:22:51:11 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 9
+2022-03-08:22:51:11 INFO   [omdb_importer.py:101] retrieved episode data for season 3 episode 1
+2022-03-08:22:51:11 INFO   [omdb_importer.py:101] retrieved episode data for season 3 episode 2
+2022-03-08:22:51:11 INFO   [omdb_importer.py:101] retrieved episode data for season 3 episode 3
+2022-03-08:22:51:11 INFO   [omdb_importer.py:101] retrieved episode data for season 3 episode 4
+2022-03-08:22:51:12 INFO   [omdb_importer.py:101] retrieved episode data for season 3 episode 5
+2022-03-08:22:51:12 INFO   [omdb_importer.py:101] retrieved episode data for season 3 episode 6
+2022-03-08:22:51:12 INFO   [omdb_importer.py:101] retrieved episode data for season 3 episode 7
+2022-03-08:22:51:12 INFO   [omdb_importer.py:101] retrieved episode data for season 3 episode 8
+2022-03-08:22:51:12 INFO   [omdb_importer.py:101] retrieved episode data for season 4 episode 1
+2022-03-08:22:51:12 INFO   [omdb_importer.py:101] retrieved episode data for season 4 episode 2
+2022-03-08:22:51:12 INFO   [omdb_importer.py:101] retrieved episode data for season 4 episode 3
+2022-03-08:22:51:12 INFO   [omdb_importer.py:101] retrieved episode data for season 4 episode 4
+2022-03-08:22:51:13 INFO   [omdb_importer.py:101] retrieved episode data for season 4 episode 5
+2022-03-08:22:51:13 INFO   [omdb_importer.py:101] retrieved episode data for season 4 episode 6
+2022-03-08:22:51:13 INFO   [omdb_importer.py:101] retrieved episode data for season 4 episode 7
+2022-03-08:22:51:13 INFO   [omdb_importer.py:101] retrieved episode data for season 4 episode 8
+2022-03-08:22:51:13 INFO   [omdb_importer.py:101] retrieved episode data for season 4 episode 9
+2022-03-08:22:51:13 INFO   [main.py:26] all episodes data for series 'Stranger Things':
+2022-03-08:22:51:13 INFO   [omdb_importer.py:93] retrieving all episode data for 'Chernobyl', 1 season(s)
+2022-03-08:22:51:13 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 1
+2022-03-08:22:51:14 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 2
+2022-03-08:22:51:14 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 3
+2022-03-08:22:51:14 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 4
+2022-03-08:22:51:14 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 5
+2022-03-08:22:51:14 INFO   [main.py:26] all episodes data for series 'Chernobyl':
+2022-03-08:22:51:14 INFO   [omdb_importer.py:93] retrieving all episode data for 'The Mandalorian', 3 season(s)
+2022-03-08:22:51:14 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 1
+2022-03-08:22:51:14 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 2
+2022-03-08:22:51:14 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 3
+2022-03-08:22:51:15 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 4
+2022-03-08:22:51:15 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 5
+2022-03-08:22:51:15 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 6
+2022-03-08:22:51:15 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 7
+2022-03-08:22:51:15 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 8
+2022-03-08:22:51:15 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 1
+2022-03-08:22:51:15 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 2
+2022-03-08:22:51:15 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 3
+2022-03-08:22:51:16 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 4
+2022-03-08:22:51:16 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 5
+2022-03-08:22:51:16 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 6
+2022-03-08:22:51:16 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 7
+2022-03-08:22:51:16 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 8
+2022-03-08:22:51:16 INFO   [omdb_importer.py:101] retrieved episode data for season 3 episode 1
+2022-03-08:22:51:16 INFO   [omdb_importer.py:101] retrieved episode data for season 3 episode 2
+2022-03-08:22:51:17 INFO   [omdb_importer.py:101] retrieved episode data for season 3 episode 3
+2022-03-08:22:51:17 INFO   [omdb_importer.py:101] retrieved episode data for season 3 episode 4
+2022-03-08:22:51:17 INFO   [omdb_importer.py:101] retrieved episode data for season 3 episode 5
+2022-03-08:22:51:17 INFO   [omdb_importer.py:101] retrieved episode data for season 3 episode 6
+2022-03-08:22:51:17 INFO   [omdb_importer.py:101] retrieved episode data for season 3 episode 7
+2022-03-08:22:51:17 INFO   [omdb_importer.py:101] retrieved episode data for season 3 episode 8
+2022-03-08:22:51:17 INFO   [main.py:26] all episodes data for series 'The Mandalorian':
+2022-03-08:22:51:17 INFO   [omdb_importer.py:93] retrieving all episode data for 'Mr. Robot', 4 season(s)
+2022-03-08:22:51:17 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 1
+2022-03-08:22:51:18 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 2
+2022-03-08:22:51:18 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 3
+2022-03-08:22:51:18 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 4
+2022-03-08:22:51:18 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 5
+2022-03-08:22:51:18 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 6
+2022-03-08:22:51:18 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 7
+2022-03-08:22:51:18 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 8
+2022-03-08:22:51:18 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 9
+2022-03-08:22:51:19 INFO   [omdb_importer.py:101] retrieved episode data for season 1 episode 10
+2022-03-08:22:51:19 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 1
+2022-03-08:22:51:19 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 2
+2022-03-08:22:51:19 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 3
+2022-03-08:22:51:19 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 4
+2022-03-08:22:51:19 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 5
+2022-03-08:22:51:20 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 6
+2022-03-08:22:51:20 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 7
+2022-03-08:22:51:20 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 8
+2022-03-08:22:51:20 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 9
+2022-03-08:22:51:20 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 10
+2022-03-08:22:51:21 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 11
+2022-03-08:22:51:21 INFO   [omdb_importer.py:101] retrieved episode data for season 2 episode 12
+2022-03-08:22:51:21 INFO   [omdb_importer.py:101] retrieved episode data for season 3 episode 1
+2022-03-08:22:51:21 INFO   [omdb_importer.py:101] retrieved episode data for season 3 episode 2
+2022-03-08:22:51:21 INFO   [omdb_importer.py:101] retrieved episode data for season 3 episode 3
+2022-03-08:22:51:21 INFO   [omdb_importer.py:101] retrieved episode data for season 3 episode 4
+2022-03-08:22:51:22 INFO   [omdb_importer.py:101] retrieved episode data for season 3 episode 5
+2022-03-08:22:51:22 INFO   [omdb_importer.py:101] retrieved episode data for season 3 episode 6
+2022-03-08:22:51:22 INFO   [omdb_importer.py:101] retrieved episode data for season 3 episode 7
+2022-03-08:22:51:22 INFO   [omdb_importer.py:101] retrieved episode data for season 3 episode 8
+2022-03-08:22:51:22 INFO   [omdb_importer.py:101] retrieved episode data for season 3 episode 9
+2022-03-08:22:51:22 INFO   [omdb_importer.py:101] retrieved episode data for season 3 episode 10
+2022-03-08:22:51:22 INFO   [omdb_importer.py:101] retrieved episode data for season 4 episode 1
+2022-03-08:22:51:22 INFO   [omdb_importer.py:101] retrieved episode data for season 4 episode 2
+2022-03-08:22:51:23 INFO   [omdb_importer.py:101] retrieved episode data for season 4 episode 3
+2022-03-08:22:51:23 INFO   [omdb_importer.py:101] retrieved episode data for season 4 episode 4
+2022-03-08:22:51:23 INFO   [omdb_importer.py:101] retrieved episode data for season 4 episode 5
+2022-03-08:22:51:23 INFO   [omdb_importer.py:101] retrieved episode data for season 4 episode 6
+2022-03-08:22:51:23 INFO   [omdb_importer.py:101] retrieved episode data for season 4 episode 7
+2022-03-08:22:51:23 INFO   [omdb_importer.py:101] retrieved episode data for season 4 episode 8
+2022-03-08:22:51:23 INFO   [omdb_importer.py:101] retrieved episode data for season 4 episode 9
+2022-03-08:22:51:23 INFO   [omdb_importer.py:101] retrieved episode data for season 4 episode 10
+2022-03-08:22:51:23 INFO   [omdb_importer.py:101] retrieved episode data for season 4 episode 11
+2022-03-08:22:51:24 INFO   [omdb_importer.py:101] retrieved episode data for season 4 episode 12
+2022-03-08:22:51:24 INFO   [omdb_importer.py:101] retrieved episode data for season 4 episode 13
+2022-03-08:22:51:24 INFO   [main.py:26] all episodes data for series 'Mr. Robot':
