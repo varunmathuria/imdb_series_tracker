@@ -11,7 +11,7 @@ INTRODUCTION
 ------------
 
 Running `python3 main.py` pulls all series data for the series in tracked_series.json, 
-and pulls all episode data for each series in tracked_series.json, 
+pulls all episode data for each series in tracked_series.json, 
 and exports this data to CSV files.
 
 Features:
