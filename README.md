@@ -15,10 +15,10 @@ and pulls all episode data for each series in tracked_series.json,
 and exports this data to CSV files.
 
 Features:
-- backfills imdbids into tracked_series.json, once series are retrieved
-    - original tracked_series data in tracked_series_backup.json
+- backfills imdbids into `tracked_series.json`, once series are retrieved
+    - original tracked_series data is saved in `tracked_series_backup.json`
 - outputs data in tabular format, using the pandas library
-- logs to file (logs/stdout.log) as well as console
+- logs to file `logs/stdout.log` as well as console
 
 INSTRUCTIONS
 ------------
